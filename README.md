@@ -6,7 +6,7 @@
   - IDE：VSCode
 - 拉取请使用code:
 
-  ```
+  ```git
   git clone https://github.com/Perusona/DP-ML-LING.git
   ```
 
